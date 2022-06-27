@@ -7,3 +7,5 @@
 - 📫 How to reach me: <a href="https://space.bilibili.com/478490349?spm_id_from=333.1007.0.0">哔哩哔哩</a>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=bilibili-ayang&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" />
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/bilibili-ayang/bilibili-ayang/assets/github-contribution-grid-snake.svg" /></div>
