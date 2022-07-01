@@ -8,4 +8,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=bilibili-ayang&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" />
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/bilibili-ayang/bilibili-ayang/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
